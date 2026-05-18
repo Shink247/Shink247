@@ -2,9 +2,7 @@
 
 📍 Los Angeles, CA | MBA @ UC Riverside | B.Tech in Computer Science
 
-Business Analyst & Strategy professional with 3+ years of experience building data-driven tools, modeling business scenarios, and translating complex datasets into executive-ready insights. I build things that solve real business problems — from predictive analytics platforms to AI-powered consulting tools.
-
-
+Business Strategy & People Analytics professional bridging the gap between data and human-centered business strategy. I build AI-powered tools, predictive dashboards, and analytical solutions that help organizations make smarter decisions — about their people, finances, and growth.
 ---
 
 ### 🚀 Featured Project
