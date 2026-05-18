@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Shinora Khan!
 
-🎓 MBA Candidate at the University of California, Riverside – A. Gary Anderson Graduate School of Management   
-💼 Specializing in Human Resources, Marketing and Finance | Passionate about building people-first business strategies, creative campaigns, and tech-enabled solutions
-On a mission to make workplaces smarter with AI-powered analytics and digital empathy.
+📍 Los Angeles, CA | MBA @ UC Riverside | B.Tech in Computer Science
+
+Business Analyst & Strategy professional with 3+ years of experience building data-driven tools, modeling business scenarios, and translating complex datasets into executive-ready insights. I build things that solve real business problems — from predictive analytics platforms to AI-powered consulting tools.
+
 
 ---
 
@@ -20,13 +21,19 @@ An enterprise-grade AI-powered people analytics dashboard built with **Streamlit
 📂 [Explore on GitHub →](https://github.com/Shink247/AttriSense-HR-Dashboard)
 
 ---
+### 🛠️ Tools & Skills
+
+Python • Streamlit • Machine Learning • Financial Modeling • 
+Data Visualization • Dashboard Development • Excel (Advanced) •
+MECE Frameworks • Scenario Analysis • Business Intelligence
 
 ### 💡 About Me
 
-- 📌 **Marketing Director** – AGSM Programming Club  
-- 🤝 **Recruitment Director** – Women in Business, UCR  
-- 🧑‍🏫 **Teaching Assistant** – Business Writing & Communications (BUS 100W)
-
+- 📊 I build analytical tools that turn messy business problems into clear, actionable decisions
+- 🤖 Interested in the intersection of AI, business strategy, and people analytics
+- 🎓 Teaching Assistant — Business Writing & Management, UC Riverside
+- 👥 Recruitment Director — Women in Business Club, UCR
+- 📣 Marketing Director — Programming Club, UCR
 I love solving problems at the intersection of **data, design, and human behavior** — whether through dashboards, strategy, or storytelling.
 
 ---
